@@ -1,9 +1,8 @@
-###  Name : KAMESH R R
-### Reg no : 212223230095
 # EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
-
+###  Name : KAMESH R R
+### Reg no : 212223230095
 # ALGORITHM:
 AES is based on a design principle known as a substitution–permutation.
 AES does not use a Feistel network like DES, it uses variant of Rijndael.
